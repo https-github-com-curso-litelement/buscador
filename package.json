@@ -1,0 +1,28 @@
+{
+  "name": "buscador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/https-github-com-curso-litelement/buscador.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/https-github-com-curso-litelement/buscador/issues"
+  },
+  "homepage": "https://github.com/https-github-com-curso-litelement/buscador#readme",
+  "dependencies": {
+    "button": "git+https://github.com/https-github-com-curso-litelement/button.git",
+    "card": "git+https://github.com/https-github-com-curso-litelement/card.git",
+    "dividir": "git+https://github.com/https-github-com-curso-litelement/dividir.git",
+    "icons": "git+https://github.com/https-github-com-curso-litelement/icons.git",
+    "input": "git+https://github.com/https-github-com-curso-litelement/input.git",
+    "lit-element": "^2.5.1",
+    "select": "git+https://github.com/https-github-com-curso-litelement/select.git"
+  }
+}
